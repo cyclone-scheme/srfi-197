@@ -1,8 +1,8 @@
 (package
  (name           srfi-197)
- (version        0.1)
+ (version        0.2)
  (license        "MIT")
- (authors        "Adam Nelson"
+ (authors        "Adam Nelson")
  (maintainers    "Justin Ethier <justin.ethier at gmail dot com>")
  (description    "Pipeline Operators")
  (tags           "srfi" "language extensions")
