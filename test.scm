@@ -1,4 +1,9 @@
-(include "./srfi-64-minimal.scm")
+(import (scheme base)
+        (scheme process-context)
+        (scheme write)
+        (cyclone test)
+        (srfi 197)
+        (srfi 2))
 
 (define (exclamation x) (string-append x "!"))
 
