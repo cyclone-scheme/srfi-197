@@ -1,6 +1,6 @@
 (package
  (name           srfi-197)
- (version        0.2)
+ (version        "0.2.0")
  (license        "MIT")
  (authors        "Adam Nelson")
  (maintainers    "Justin Ethier <justin.ethier at gmail dot com>")
